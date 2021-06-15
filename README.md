@@ -29,6 +29,11 @@ Subfolders with most selected sound samples for the four attributes obtained dur
 - nonrough1:
 - nonrough2:
 
+Sounds are extracted from the *Studio online library* and the *Vienna symphonic library*
+
+*Ballet, G., Borghesi, R., Hoffmann, P., and L ́evy, F. (1999). “Stu-dio online 3.0:  An internet” killer application” for remote accessto ircam sounds and processing tools,”  Journ ́ee d’InformatiqueMusicale (JIM) .*
+
+http://www.vsl.co.at
 
 #### part_profils
 Two figures with the distribution of the professional profiles of the participants in the interviews (part II) and in the online survey (part III).
