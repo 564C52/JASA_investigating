@@ -31,7 +31,7 @@ Subfolders with most selected sound samples for the four attributes obtained dur
 
 Sounds are extracted from the *Studio online library* and the *Vienna symphonic library*
 
-*Ballet, G., Borghesi, R., Hoffmann, P., and Lévy, F. (1999). “Studio online 3.0:  An internet "killer application" for remote accessto ircam sounds and processing tools,”  Journée d’Informatique Musicale (JIM) .*
+*Ballet, G., Borghesi, R., Hoffmann, P., and Lévy, F. (1999). “Studio online 3.0:  An internet "killer application" for remote access to ircam sounds and processing tools,”  Journée d’Informatique Musicale (JIM) .*
 
 http://www.vsl.co.at
 
