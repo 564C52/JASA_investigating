@@ -1,10 +1,5 @@
-# JASA_investigating
-Temporary repository for supplementary materials. It will be uploaded on zenodo afterwards.
-
-
-## Description 
-
-This folder contains sound samples and figures corresponding to the results obtained in the study entitled *Investigating the shared meaning of metaphorical sound attributes: bright, warm, round, and rough*.
+# Description
+Temporary repository for supplementary materials for the study entitled *Investigating the shared meaning of metaphorical sound attributes: bright, warm, round, and rough*.. It will be uploaded on zenodo afterwards.
 
 -----------------
 ### soundsamples/
