@@ -39,7 +39,7 @@ We indicated the library from which the sound is extracted in parenthesis. <br>
 
 **VSL**: *Vienna Symphonic Library*<br>
 http://www.vsl.co.at
-
+<br>
 -----------------
 ### part_profils/
 Two figures with the distribution of the professional profiles of the participants in the interviews (part II) and in the online survey (part III).
