@@ -4,7 +4,7 @@ Temporary repository for supplementary materials. It will be uploaded on zenodo 
 
 ## Description 
 
-This folder contains result elements corresponding to the results obtained in the study entitled *Investigating the shared meaning of metaphorical sound attributes: bright, warm, round, and rough*.
+This folder contains sound samples and figures corresponding to the results obtained in the study entitled *Investigating the shared meaning of metaphorical sound attributes: bright, warm, round, and rough*.
 
 -----------------
 ### soundsamples/
