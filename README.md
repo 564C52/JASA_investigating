@@ -1,5 +1,5 @@
 # JASA_investigating
-Temporary repository for supplementary materials 
+Temporary repository for supplementary materials. It will be uploaded on zenodo afterwards.
 
 
 ## Description 
