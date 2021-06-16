@@ -1,8 +1,8 @@
 # Description
 Temporary repository for supplementary materials for the study entitled *Investigating the shared meaning of metaphorical sound attributes: bright, warm, round, and rough*.. It will be uploaded on zenodo afterwards.
 
------------------
-### soundsamples/
+
+## soundsamples/
 Subfolders with most selected sound samples for the four attributes obtained during the interviews (Part II in the article). For example, the folder named '/bright/' contains the most selected sounds for bright (third question) and not bright (fourth question).
 
 Here is the list of the sound samples:
@@ -35,10 +35,10 @@ We indicated the library from which the sound is extracted in parenthesis. <br>
 **VSL**: *Vienna Symphonic Library*<br>
 http://www.vsl.co.at
 
------------------
-### part_profils/
+
+## part_profils/
 Two figures with the distribution of the professional profiles of the participants in the interviews (part II) and in the online survey (part III).
 
------------------
-### survey_trad/
+
+## survey_trad/
 The four figures presenting the relevant results of the online survey (Part III in the article), with the associated French translation, as they were presented to the participants during the survey.
