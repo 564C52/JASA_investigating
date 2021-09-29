@@ -37,8 +37,8 @@ http://www.vsl.co.at
 
 
 ## part_profils/
-Two figures with the distribution of the professional profiles of the participants in the interviews (part II) and in the online survey (part III).
+Two figures with the distribution of the professional profiles of the participants in the interviews (study 1) and in the online survey (study 2).
 
 
 ## survey_trad/
-The four figures presenting the relevant results of the online survey (Part III in the article), with the associated French translation, as they were presented to the participants during the survey.
+The four figures presenting the relevant results of the online survey (study 2 in the article), with the associated French translation, as they were presented to the participants during the survey.
