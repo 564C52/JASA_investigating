@@ -1,10 +1,16 @@
 # Description
 Temporary repository for supplementary materials for the study entitled *Investigating the shared meaning of metaphorical sound attributes: bright, warm, round, and rough*. It will be uploaded on zenodo afterwards.
 
+## interviews/ 
+Content related to the interviews with expert (Study 1):
+- **prof_interviews.pdf**: distribution of the professional profiles of the participants
+- **form_fr.pdf**: Questionnaire of the interviews in French.
+- **lemmas/**: Top lemmas for each attribute with number of citations.
+- **sounsamples/**: Subfolders with most selected sound samples for the four attributes obtained during the interviews (Part II in the article). For example, the folder named '/bright/' contains the most selected sounds for bright (third question) and not bright (fourth question).
 
-## soundsamples/
-Subfolders with most selected sound samples for the four attributes obtained during the interviews (Part II in the article). For example, the folder named '/bright/' contains the most selected sounds for bright (third question) and not bright (fourth question).
 
+
+### soundsamples/
 Here is the list of the sound samples:
 - bright1.wav: glockenspiel - hard stick (VSL)
 - bright2.wav: trumpet - ordinario (SOL)
@@ -35,10 +41,13 @@ We indicated the library from which the sound is extracted in parenthesis. <br>
 **VSL**: *Vienna Symphonic Library*<br>
 http://www.vsl.co.at
 
+## survey/ 
+Content related to the online survey (Study 2):
+- **prof_survey.pdf**: distribution of the professional profiles of the participants
+- **survey_ex_fr.pdf**: Exemple of the interface of the survey in French.
+- **table_stats.pdf**: Results of the statistical tests used in Study 2.
+- **translations/**: Four figures presenting the relevant results of the online survey (Fig. 2), with the associated French translation, as they were presented to the participants during the survey.
 
-## part_profils/
-Two figures with the distribution of the professional profiles of the participants in the interviews (study 1) and in the online survey (study 2).
 
 
-## survey_trad/
-The four figures presenting the relevant results of the online survey (study 2 in the article), with the associated French translation, as they were presented to the participants during the survey.
+
