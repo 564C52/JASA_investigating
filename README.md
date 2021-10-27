@@ -5,7 +5,7 @@ Temporary repository for supplementary materials for the study entitled *Investi
 Content related to the interviews with expert (Study 1):
 - **prof_interviews.pdf**: distribution of the professional profiles of the participants
 - **form_fr.pdf**: Questionnaire of the interviews in French.
-- **lemmas/**: Top lemmas for each attribute with number of citations.
+- **Nb_lemmas.pdf**: Number and Top lemmas for the four attributes with number of citations.
 - **sounsamples/**: Subfolders with most selected sound samples for the four attributes obtained during the interviews (Part II in the article). For example, the folder named '/bright/' contains the most selected sounds for bright (third question) and not bright (fourth question).
 
 
