@@ -1,7 +1,7 @@
 # Description
 Repository for supplementary materials for the study entitled *Investigating the shared meaning of metaphorical sound attributes: bright, warm, round, and rough*. 
 
-[![DOI](https://zenodo.org/badge/377184864.svg)](https://zenodo.org/badge/latestdoi/377184864)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5947036.svg)](https://doi.org/10.5281/zenodo.5947036)
 
 
 ## interviews/ 
