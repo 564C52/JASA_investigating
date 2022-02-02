@@ -48,7 +48,7 @@ http://www.vsl.co.at
 Content related to the online survey (Study 2):
 - **prof_survey.pdf**: distribution of the professional profiles of the participants
 - **survey_ex_fr.pdf**: Exemple of the interface of the survey in French.
-- **table_stats.pdf**: Results of the statistical tests used in Study 2.
+- **table_stats.pdf**: Presentation and results of the statistical tests analysis of the second study.
 - **translations/**: Four figures presenting the relevant results of the online survey (Fig. 2), with the associated French translation, as they were presented to the participants during the survey.
 
 
