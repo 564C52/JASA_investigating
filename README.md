@@ -27,7 +27,7 @@ Here is the list of the sound samples:
 - warm1.wav: bass clarinet - ordinario (VSL)
 - warm2.wav: cello - ordinario/vibrato (SOL)
 - warm3.wav: french horn - ordinario (SOL)
-- nonwarm1.wav: glockenspiel - hard stuck (VSL)
+- nonwarm1.wav: glockenspiel - hard stick (VSL)
 - nonwarm2.wav: piccolo flute - ordinario (VSL)
 - nonwarm3.wav: accordion - ordinario (SOL)
 - round1.wav: doublebass - pizzicato (SOL)
