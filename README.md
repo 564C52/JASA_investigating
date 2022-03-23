@@ -3,17 +3,22 @@ Repository for supplementary materials for the study entitled *Investigating the
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.5947036.svg)](https://doi.org/10.5281/zenodo.5947036)
 
+the *supplementary materials.pdf* groups multiple information on the interviews and the survey:
 
-## interviews/ 
 Content related to the interviews with expert (Study 1):
-- **prof_interviews.pdf**: distribution of the professional profiles of the participants
-- **form_fr.pdf**: Questionnaire of the interviews in French.
-- **Nb_lemmas.pdf**: Number and Top lemmas for the four attributes with number of citations.
-- **sounsamples/**: Subfolders with most selected sound samples for the four attributes obtained during the interviews (Part II in the article). For example, the folder named '/bright/' contains the most selected sounds for bright (third question) and not bright (fourth question).
+- The questionnaire of the interviews in French.
+- The distribution of the professional profiles of the participants
+- The number of lemmas and top lemmas for the four attributes with number of citations. 
+
+Content related to the online survey (Study 2):
+- An exemple of the interface of the survey in French.
+- The distribution of the professional profiles of the participants
+- The presentation and results of the statistical analysis of the second study along with French translation for each description.
+- Four figures presenting the relevant results of the online survey (Fig. 2), with the associated French translation, as they were presented to the participants during the survey
 
 
 
-### soundsamples/
+The *soundsamples/* folder contains the most selected sound samples for the four attributes obtained during the interviews (Part I in the article). For example, the folder named '/bright/' contains the most selected sounds for bright (third question) and not bright (fourth question).
 Here is the list of the sound samples:
 - bright1.wav: glockenspiel - hard stick (VSL)
 - bright2.wav: trumpet - ordinario (SOL)
@@ -43,13 +48,6 @@ We indicated the library from which the sound is extracted in parenthesis. <br>
 
 **VSL**: *Vienna Symphonic Library*<br>
 http://www.vsl.co.at
-
-## survey/ 
-Content related to the online survey (Study 2):
-- **prof_survey.pdf**: distribution of the professional profiles of the participants
-- **survey_ex_fr.pdf**: Exemple of the interface of the survey in French.
-- **table_stats.pdf**: Presentation and results of the statistical tests analysis of the second study.
-- **translations/**: Four figures presenting the relevant results of the online survey (Fig. 2), with the associated French translation, as they were presented to the participants during the survey.
 
 
 
